@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "DROP TOP",
+  "base_artist": "MEOVV",
+  "createdAt": "2026-02-23T12:16:14.687293Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Keith Urban feat. Kassi Ashton",
+      "has_synced": true,
+      "path": "select/01_Drop_Top_Keith_Urban_feat._Kassi_Ashton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/02_Drop_Top_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Cole Taylor",
+      "has_synced": false,
+      "path": "select/03_Drop_Top_Cole_Taylor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drop Top Girl",
+      "artist": "Chris Brown feat. Tyga",
+      "has_synced": true,
+      "path": "select/04_Drop_Top_Girl_Chris_Brown_feat._Tyga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drop Top Girl",
+      "artist": "Chris Brown and Tyga",
+      "has_synced": true,
+      "path": "select/05_Drop_Top_Girl_Chris_Brown_and_Tyga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "SBMG feat. Navi",
+      "has_synced": false,
+      "path": "select/06_Drop_Top_SBMG_feat._Navi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "SBMG & Navi",
+      "has_synced": false,
+      "path": "select/07_Drop_Top_SBMG_&_Navi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drop Top Benz",
+      "artist": "GNAR feat. Lil Skies",
+      "has_synced": true,
+      "path": "select/08_Drop_Top_Benz_GNAR_feat._Lil_Skies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drop Top Benz",
+      "artist": "Gnar; Lil Skies",
+      "has_synced": true,
+      "path": "select/09_Drop_Top_Benz_Gnar;_Lil_Skies.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "YNW Melly",
+      "has_synced": true,
+      "path": "select/10_Drop_Top_YNW_Melly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Mercy Mercedes",
+      "has_synced": false,
+      "path": "select/11_Drop_Top_Mercy_Mercedes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "French Montana feat. Harry Fraud & Quavo",
+      "has_synced": true,
+      "path": "select/12_Drop_Top_French_Montana_feat._Harry_Fraud_&_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "French Montana",
+      "has_synced": true,
+      "path": "select/13_Drop_Top_French_Montana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drop Top (feat. Kassi Ashton)",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/14_Drop_Top_(feat._Kassi_Ashton)_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DROP TOP",
+      "artist": "NLE Choppa",
+      "has_synced": true,
+      "path": "select/15_DROP_TOP_NLE_Choppa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "French Montana & Harry Fraud feat. Quavo",
+      "has_synced": true,
+      "path": "select/16_Drop_Top_French_Montana_&_Harry_Fraud_feat._Quavo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DROP TOP",
+      "artist": "MEOVV",
+      "has_synced": false,
+      "path": "select/pl_01_DROP_TOP_MEOVV.txt"
+    }
+  ]
+}
