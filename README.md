@@ -1,0 +1,79 @@
+# MEOVV – DROP TOP
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+이것만
+잊지마
+We are young
+Heart of gold
+불안한
+지금도
+내일이면 낡아 빠질 yesterday
+불타오르는 까만 타이어
+더 크게 틀어봐 light my fire
+Looking for 느낌표 the rush
+넌 한참 갈 길이 멀다고
+But they keep fallin' like dominos
+So shut up
+저 하늘을 열어봐
+Can you feel the noise we shout
+그 빛을 잃은 눈을 감아줘
+거침없게 꽉 밟아 do or die
+더 높이 외쳐 in the name of love
+Drop top, drop top
+Feel the rain drop
+In the rearview they sayin' "Oh my God"
+What's up what's up
+Tear the roof down
+Till the sunrise 저기 별을 향해 ride
+Drop top, drop top
+Feel the rain drop
+In the rearview they sayin' "Oh my God"
+What's up what's up
+Tear the roof down
+Till the sunrise 저기 별을 향해 ride
+뭣도 없는 talkin', 난 내 멋대로 been rockin'
+whip too fast, 내 갈 길을 탐해
+with my girls, no brake no limit
+fire it up 타올라, nobody but us 올라가
+they gon' watch me run it run it, 나아가는 너와
+나
+앞만 봐, 과거는 저 멀리 뒤로
+Oh my God, in my rearview mirror
+세상이 mine to claim, 쭉 위로 뻗은 lane
+땅을 벗어나, 더 높이 fly, hands up to the sky,
+like
+Can you feel the noise we shout
+그 빛을 잃은 눈을 감아줘
+거침없게 꽉 밟아 do or die
+더 높이 외쳐 in the name of love
+Drop top, drop top
+Feel the rain drop
+In the rearview they sayin' "Oh my God"
+What's up what's up
+Tear the roof down
+Till the sunrise 저기 별을 향해 ride
+Drop top, drop top
+Feel the rain drop
+In the rearview they sayin' "Oh my God"
+What's up what's up
+Tear the roof down
+Till the sunrise 저기 별을 향해 ride
+I wanna take you for a ride
+이 세상 위로
+매 순간 속 just live your life
+두려움은 잊고
+Drop top, drop top
+Feel the rain drop
+In the rearview they sayin' "Oh my God"
+What's up what's up
+Tear the roof down
+Till the sunrise 저기 별을 향해 ride
+Drop top, drop top
+Feel the rain drop
+In the rearview they sayin' "Oh my God"
+What's up what's up
+Tear the roof down
+Till the sunrise 저기 별을 향해 ride
+```
